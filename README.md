@@ -1,6 +1,6 @@
-# Hi, I'm Suraj.
+# Hi, I'm Suraj Bhardwaj.
 
-This change is done with the help or GitHub desktop
+
 
 
 <p align="left"> 
