@@ -4,8 +4,4 @@
 
 ![image](https://github.com/user-attachments/assets/28a8b5a9-cff3-42a4-b339-d666d0b6f29e)
 
-<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/28a8b5a9-cff3-42a4-b339-d666d0b6f29e)" width="100" height="150">
-
-
-<img src="https://github.com/user-attachments/assets/28a8b5a9-cff3-42a4-b339-d666d0b6f29e" alt="Description" width="100" height="150">
-
+![image](https://github.com/user-attachments/assets/b902f528-224c-4d53-ae75-eb11a4583d0e)
